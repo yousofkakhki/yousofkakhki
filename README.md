@@ -1,5 +1,5 @@
-# Hi there 👋 this is Erfan
-[![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=erfanoabdi&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/erfanoabdi)
+# Hi there 👋 this is Yousof
+[![yousofkakhki github stats](https://github-readme-stats.vercel.app/api?username=yousofkakhki&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/yousofkakhki)
 
 ## How's life
 - 📱 I make shiny rectangles run Linux
@@ -7,7 +7,7 @@
 - 🩺 Struggling with medicine books
 
 ## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousofkakhki&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/yousofkakhki)
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
@@ -23,8 +23,8 @@
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
 ## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/Khode_Erfan)
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/khode_erfan)
-[<img src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" width="32">](https://mastodon.social/@khode_erfan)
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/erfanoabdi)
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/erfanoabdi/)
+
+[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/yousof_kakhki)
+
+[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/yousofkakhki)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/yousofkakhki/)
