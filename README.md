@@ -4,7 +4,7 @@
 ## How's life
 - 📱 I make shiny rectangles run Linux
 - 💻 Currently working on LineageOS, Ubports and Droidian
-- 🩺 Struggling with medicine books
+- 🩺 Struggling with Algorithm books
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousofkakhki&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/yousofkakhki)
